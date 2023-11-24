@@ -1,0 +1,338 @@
+#homename {
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+    color:#FF0F55
+}
+
+#homesubname {
+    font-family: "filson-soft", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#9F2D38;
+    font-size: 40px;
+}
+
+#homeinfo {
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+    color:#9F2D38;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.bio {
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+    border-radius: 80px;
+    background-color:#FFF6FA;
+}
+
+
+.subtitle {
+    text-align: center;
+}
+
+.section1 {
+    background-color: #FFF6FA;
+}
+
+#mylogo {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.homebelowfold {
+    background-color: #fad6d6;
+    z-index: 0;
+}
+.homestripe {
+    background-color:#9F2D38;
+    height: 5px;
+}
+
+.homelist {
+    list-style-type: none;
+    margin-top: 50px;
+   
+   
+}
+
+strong {
+    font-family: "new-kansas", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+
+h1 {
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    font-family: "filson-soft", sans-serif;
+font-weight: 400;
+font-style: normal;
+    font-size: 23px;
+}
+.section2 {
+    background-color: #ffecd6;  
+    padding-top: 50px; 
+    z-index: 1;
+}
+
+.section3 {
+    background-color:#FFF6FA;
+    padding-top: 50px;
+}
+
+.section4 {
+    background-color: #fad6d6;
+}
+
+.section5 {
+    background-color: #9F2D38;
+   
+}
+#me {
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.homenav a{
+    text-decoration: none;
+    color:#ffecd6;
+}
+
+.homenav a:hover{
+    color:#ffffff;
+}
+
+.homenav ul{
+    list-style-type: none;
+    background-color: #9F2D38;
+    margin-bottom: 20px;
+ 
+   
+}
+
+
+.homenav li {
+    float: left;
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #ffecd6;
+    font-size: 24px;
+    padding: 0px 5px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+
+nav {
+    background-color: #9F2D38;
+   
+}
+
+#downarrow {
+    margin-bottom: 50px;
+}
+
+/* project specific pages */
+
+.projectinfo ul {
+    list-style-type: none;
+}
+
+.projectinfo li {
+    float: left;
+    font-size: 23px;
+    color: #9F2D38;
+    padding: 20px;
+}
+
+#projectspagep {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.projecttitle {
+    font-size: 40px;
+    margin: 0 auto;
+    text-align: center;
+    color: #FF0F55;
+    margin-top: 50px;
+    
+}
+.projectinfo {
+    background-color: #fad6d6;
+    height: 115px;
+   
+}
+
+.projectlabel {
+    color: white;
+    font-size: 18px;
+    font-family: "new-kansas", sans-serif;
+font-weight: 700;
+font-style: normal;
+text-align: center;
+margin-top: 85px;
+}
+
+.projectlabel2 {
+    margin-top: 60px;
+}
+
+.projectlabel3 {
+    margin-top: 75px;
+}
+
+.section2 p {
+    line-height: 1.8;
+     margin-bottom: 30px;
+ }
+ 
+ .section3 p {
+     line-height: 1.8;
+     margin-bottom: 30px;
+ }
+ .section1 p {
+     line-height: 1.8;
+     margin-bottom: 30px;
+ }
+ 
+ nav a{
+    text-decoration: none;
+    color: #FFD2D1;
+}
+
+#activepage {
+    color:#F9E1C6;
+}
+#activepage:hover{
+    color:white;
+}
+nav a:hover {
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-top: 50px;
+  
+    
+}
+
+nav li {
+float: left;
+font-family: "new-kansas", sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 20px;
+color: #c65863;
+
+
+}
+
+nav {
+    padding-bottom: 30px; 
+}
+
+#navlogo {
+    padding-top: 30px;
+}
+
+.section2 img {
+ 
+    margin-bottom: 50px;
+   
+}
+
+.section3 img {
+    margin-bottom: 50px;
+}
+
+.section1 img {
+   margin-top: 30px;
+    margin-bottom: 50px;
+    display: block;
+   
+}
+
+video {
+    margin-bottom: 50px;
+}
+
+footer img {
+    height: 50px;
+    width: 50px;
+}
+
+footer ul {
+    list-style-type: none;
+    margin-top: 50px;
+}
+
+.arrows {
+    margin-top: 50px;
+}
+
+#label3 {
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size:35px;
+    color:#9F2D38;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+input.type {
+
+    font-family: "frankensteinregular";
+    font-weight: normal;
+    font-style: normal;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    height: 80px;
+}
+
+label {
+   
+    font-size: 20px;
+    font-family: "filson-soft", sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ 
+ }
+
+ label.type {
+    text-align: center;
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color:#9F2D38;
+     font-size: 30px;
+ }
+
+ @font-face {
+    font-family: "frankensteinregular";
+    src: url(../frankenstein/frankenstein-webfont.woff)
+    
+}
