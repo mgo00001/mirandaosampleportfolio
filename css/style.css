@@ -336,3 +336,160 @@ label {
     src: url(../frankenstein/frankenstein-webfont.woff)
     
 }
+
+#youtubedangersketch {
+    margin-top: 50px;
+}
+
+/* resume */
+
+.resume1 {
+    list-style-type: none;
+    margin-top: -10px;
+    margin-left: 5px;
+}
+
+.resume1 li {
+    
+    padding: 5px 0;
+    font-family: "filson-soft", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19px;
+}
+#educationp {
+    margin-top: -10px;
+}
+.resume2 {
+    list-style-type: none;
+    margin-left: -30px;
+    margin-top: -10px;
+}
+
+.resume2 li {
+    padding: 5px 0;
+    font-family: "filson-soft", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19px;
+    
+}
+
+#resumebio {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#resumebio p{
+    font-family: "filson-soft", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+#resumename {
+    color:#9F2D38;
+    font-size: 55px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+#resumesubname {
+    font-family: "filson-soft", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#FF0F55;
+    font-size: 27px;
+    margin-left: 15px;
+}
+
+.resume p {
+    font-size: 19px;
+    line-height: 1.9;
+}
+
+.resumebody {
+    background-color:#FFF6FA;
+    padding-bottom: 40px;
+}
+
+.resumeinfo {
+    background-color: #fad6d6;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+#resumebutton {
+    background-color: #FFB1AF;
+    border: none;
+    height: 100px;
+    color:#9F2D38;
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    width: 60%;
+    margin-left: 190px;
+    margin-top: 30px;
+    
+}
+
+#resumebutton:hover {
+    background-color:#9F2D38;
+    color:#FFB1AF;
+    box-shadow:#380207 3px 3px 3px;
+}
+
+.stripe {
+    display: block;
+    background-color:#9F2D38;
+    height: 15px;
+   margin-left: 40px;
+}
+
+.socials ul {
+    list-style-type: none;
+    margin-left: 5px;
+   
+}
+.socials li {
+   
+   
+    font-family: "filson-soft", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    
+}
+
+.socials {
+    width: 325px;
+    height: 190px;
+   margin-bottom: 20px;
+   margin-top: 8px;
+}
+
+#label4 {
+    
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size:20px;
+    color:#9F2D38;
+    margin-left: 30px;
+    
+}
+
+.label1 {
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size:35px;
+    color:#9F2D38;
+}
+
+#label2 {
+    font-family: "new-kansas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size:25px;
+    color:#9F2D38;
+}
