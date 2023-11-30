@@ -496,7 +496,7 @@ font-style: normal;
 
 #loader  {
     position: fixed;
-    margin-left: -950px;
+    margin-left: -750px;
     width: 200%;
     height: 100vh;
     background: #fff url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9nb3FpeDk2bjBmZmhodHk1d2xmM3A0bDZ5eWtjNDRva2Jvcjl1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x3g5s4OUpAYxajMjWk/source.gif) no-repeat center center;
