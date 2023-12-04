@@ -63,12 +63,23 @@
    
 }
 
-strong {
-    font-family: "new-kansas", sans-serif;
+#resume2 strong {
+    font-family: "filson-soft", sans-serif;
 font-weight: 700;
 font-style: normal;
 }
 
+.secondlist strong {
+    font-family: "filson-soft", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+#educationp strong {
+    font-family: "filson-soft", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
 
 h1 {
     font-family: "new-kansas", sans-serif;
@@ -345,8 +356,9 @@ label {
 
 .resume1 {
     list-style-type: none;
-    margin-top: -10px;
+    margin-top: 18px;
     margin-left: 5px;
+    
 }
 
 .resume1 li {
@@ -355,23 +367,47 @@ label {
     font-family: "filson-soft", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 19px;
+    font-size: 17px;
+    margin-bottom: -3px;
 }
 #educationp {
     margin-top: -10px;
+    font-size: 17px;
+    font-family: "filson-soft", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+}
+
+
+#resumelabel {
+    font-family: "filson-soft", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 17px;
+    margin-bottom: -8px;
+}
+
+#resumedata {
+    font-family: "filson-soft", sans-serif;
+    
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17px;
+    margin-bottom: 8px;
 }
 .resume2 {
     list-style-type: none;
     margin-left: -30px;
-    margin-top: -10px;
+    margin-top: -20px;
 }
 
 .resume2 li {
-    padding: 5px 0;
+    padding: 2px;
     font-family: "filson-soft", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 19px;
+   
     
 }
 
@@ -406,6 +442,9 @@ font-style: normal;
     line-height: 1.9;
 }
 
+.resume {
+    margin-top: 19px;
+}
 .resumebody {
     background-color:#FFF6FA;
     padding-bottom: 40px;
@@ -441,13 +480,19 @@ font-style: normal;
 .stripe {
     display: block;
     background-color:#9F2D38;
-    height: 15px;
+    height: 5px;
    margin-left: 40px;
+}
+
+.secondlist {
+    margin-bottom: 30px;
 }
 
 .socials ul {
     list-style-type: none;
-    margin-left: 5px;
+   
+    margin-top: -101px;
+
    
 }
 .socials li {
@@ -457,14 +502,17 @@ font-style: normal;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
+    text-align: right;
+    margin-right: 5px;
     
 }
 
 .socials {
     width: 325px;
     height: 190px;
-   margin-bottom: 20px;
+   margin-bottom: -200px;
    margin-top: 8px;
+  
 }
 
 #label4 {
@@ -480,7 +528,7 @@ font-style: normal;
 
 .label1 {
     font-family: "new-kansas", sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     font-style: normal;
     font-size:35px;
     color:#9F2D38;
@@ -488,10 +536,18 @@ font-style: normal;
 
 #label2 {
     font-family: "new-kansas", sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     font-style: normal;
     font-size:25px;
     color:#9F2D38;
+}
+
+#label5 {
+    font-family: "filson-soft", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size:20px;
+    
 }
 
 #loader  {
